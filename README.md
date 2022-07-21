@@ -69,5 +69,5 @@ Así hemos logrado ingresar a la terminal:
 
 Cuando teclees Enter, ingresas el usuario HERC01, después teclea nuevamente Enter y ahora digita la contraseña: CUL8TR, seguido de Enter:
 
-image19.png
-¡Listo! Ya estamos preparados para continuar con el curso desde nuestro sistema operativo Ubuntu.
+
+¡Listo! Ya estamos preparados para continuar con el curso desde nuestro sistema operativo.
